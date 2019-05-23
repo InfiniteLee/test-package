@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "github:infinitelee/dependency-with-tag/#tag0.1"
+    "dependency-with-tag": "github:infinitelee/dependency-with-tag/#tag0.1"
   }
 }
